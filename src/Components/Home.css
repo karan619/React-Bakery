@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Allura&display=swap");
+.ingridients_wrapper {
+  color: white;
+  background-color: #222226;
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 50vh;
+}
+
+.ingridients_banner {
+  display: flex;
+  margin: 30px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ingridients_img {
+  max-height: 100px;
+  margin-bottom: 20px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.image_title {
+  color: #b9cd32;
+  font-family: "Lato", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.image_text {
+  color: #f0f0f7;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+
+.message_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-image: url("https://www.restaurant-hospitality.com/sites/restaurant-hospitality.com/files/styles/article_featured_retina/public/uploads/2016/04/promomanager_1.jpg?itok=mzPvRnsG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 75vh;
+}
+
+.product_wrapper {
+  padding: 20px;
+}
+
+.product_heading_wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.products_wrapper_row {
+  padding-top: 20px;
+}
+
+.product_heading {
+  font-family: "Lato", sans-serif;
+  color: #555555;
+  margin-right: 10px;
+  font-size: 3.4em;
+  font-weight: normal;
+}
+
+.product_sub_heading {
+  font-family: "Allura", cursive;
+  font-weight: 550;
+  font-size: 6em;
+  color: rgb(185, 205, 50);
+}
+
+.products_row {
+  display: flex;
+  position: relative;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.reservation_wrapper {
+  background-image: url("http://patistry.physcode.com/wp-content/uploads/2018/06/bg-reservation.jpg?id=237");
+  height: 60vh;
+  background-position: center;
+  min-width: 100px;
+}

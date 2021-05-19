@@ -1,0 +1,60 @@
+.header_wrapper {
+  background-image: url("./Images/Background_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+  background-position: center center;
+  height: 100vh;
+  opacity: 1;
+}
+
+.header {
+  display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.header_logo {
+  height: auto;
+  object-fit: contain;
+  margin: 10px 50px;
+  max-width: 50%;
+}
+
+.header_nav {
+  display: flex;
+  padding: 45px;
+  margin-left: auto;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.header_link {
+  color: white;
+  text-decoration: none;
+}
+
+.header_option {
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0 20px;
+  transition: 0.8s;
+}
+
+.header_option:hover {
+  color: #b9cd32;
+}
+
+.header_optionLineOne {
+  font-size: larger;
+  font-weight: 490;
+}
+
+.basket {
+  transition: 0.8s;
+}
+
+.basket:hover {
+  color: #b9cd32 !important;
+}

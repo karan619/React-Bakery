@@ -1,0 +1,33 @@
+.product_info {
+  height: 100px;
+  margin-bottom: 15px;
+}
+
+.product_img {
+  max-height: 300px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.product_rating {
+  display: flex;
+}
+
+.product > h2 {
+  font-weight: 550;
+  font-family: "Lato", sans-serif;
+}
+
+.cart_button {
+  color: white;
+  font-family: "Lato", sans-serif;
+  background-color: #222226;
+  font-size: 16px;
+  padding: 12px 30px;
+  margin-top: 20px;
+  border-radius: 50px;
+  border: none;
+  font-weight: normal;
+  line-height: 1;
+  outline: none;
+}

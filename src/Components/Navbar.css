@@ -1,0 +1,57 @@
+.navbar_wrapper {
+  background-image: url("./Images/Navbar_img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: contain;
+  background-position: center center;
+  max-width: 2000px;
+  min-height: 20vh;
+}
+
+.navbar {
+  display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.navbar_logo {
+  height: auto;
+  object-fit: contain;
+  margin: 20px 50px;
+  max-width: 50%;
+}
+
+.navbar_links {
+  display: flex;
+  padding: 50px;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.navbar_link {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar_option {
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 0 20px;
+  transition: 0.8s;
+}
+
+.navbar_option:hover {
+  color: #b9cd32;
+}
+
+.navbar_optionLineOne {
+  font-size: larger;
+  font-weight: 490;
+}
+
+.navbar_basket_Wrapper {
+  margin-top: 3px;
+  margin-right: 15px;
+}

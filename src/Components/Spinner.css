@@ -1,0 +1,10 @@
+.spinner {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner > div {
+  color: #9fa3a7;
+}

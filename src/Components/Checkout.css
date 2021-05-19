@@ -1,0 +1,8 @@
+.checkout {
+  display: flex;
+  position: relative;
+  left: 10%;
+  right: 20%;
+  min-height: 80vh;
+  padding: 30px;
+}

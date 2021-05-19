@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+.checkoutProduct {
+  display: flex;
+  margin: 10px;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  min-width: 120%;
+  border-radius: 0.25rem;
+  padding: 30px;
+}
+
+.checkoutProduct_image {
+  object-fit: contain;
+  width: 40%;
+  height: 50%;
+  border-radius: 0.25rem;
+  background-color: rgba(219, 217, 217, 0.15);
+  box-shadow: 0 0.5rem 1rem rgba(59, 59, 59, 0.15);
+}
+
+.checkoutProduct_info {
+  position: relative;
+  left: 20%;
+  margin-top: 70px;
+  font-family: "Lato", sans-serif;
+  color: #555555;
+  font-size: 1.4em;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+
+.checkoutProduct_title {
+  font-family: "Lato", sans-serif;
+  color: #555555;
+  font-size: 20px;
+  font-weight: 800;
+  padding-bottom: 10px;
+}
+
+.checkoutProduct_rating {
+  display: flex;
+}
+
+.checkoutProduct_info > button {
+  color: white;
+  position: relative;
+  font-family: "Lato", sans-serif;
+  background-color: #222226;
+  font-size: 16px;
+  padding: 12px 30px;
+  margin-top: 20px;
+  left: -3%;
+  border-radius: 50px;
+  border: none;
+  font-weight: normal;
+  line-height: 1;
+  outline: none;
+}
