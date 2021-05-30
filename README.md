@@ -14,6 +14,32 @@
 ![img2](https://user-images.githubusercontent.com/22108887/120113155-260a9a80-c147-11eb-853e-ffa093ad0fa1.PNG)
 
 
+## Topics :
+
+:cake: 1. Commerce.js API <br>
+:cake: 2. Using an API in React <br>
+:cake: 3. Axios dependencie to make the requests <br>
+:cake: 4. Using Material UI<br>
+:cake: 5. React Router <br>
+:cake: 6. Navbar transition <br>
+:cake: 7. ASYNC Javascript <br>
+:cake: 8. Promises <br>
+:cake: 9. React Hooks <br>
+
+
+## Tech Stack
+
+:clapper: **Fron-end** React <br>
+:clapper: **Back-end** Firebase<br>
+
+
+## TODO :computer:
+
+:pushpin: Implement User LogIn and use React redux to avoid prop drilling. <br>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
