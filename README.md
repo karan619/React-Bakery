@@ -1,3 +1,19 @@
+# TORONTO BAKERY :baguette_bread:
+
+![Project2](https://user-images.githubusercontent.com/22108887/120112969-42f29e00-c146-11eb-97df-6a4d92ff7bea.PNG)
+
+## Features :fire:
+
+:cake: Navbar with compnay logo and a dynamic cart icon<br>
+:cake: Created prdoucts api by using commerce.js<br>
+:cake: User can add or delete items from cart<br>
+:cake: Used material for designing, cards and forms<br>
+:cake: Used react stripe.js for impelementing payment<br>
+
+![img1](https://user-images.githubusercontent.com/22108887/120113154-2440d700-c147-11eb-84e8-805fd8d7b59c.PNG)
+![img2](https://user-images.githubusercontent.com/22108887/120113155-260a9a80-c147-11eb-853e-ffa093ad0fa1.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
