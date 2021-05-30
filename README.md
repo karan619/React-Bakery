@@ -29,8 +29,8 @@
 
 ## Tech Stack
 
-:clapper: **Fron-end** React <br>
-:clapper: **Back-end** Firebase<br>
+:cake: **Front-end** React <br>
+:cake: **Back-end** Firebase<br>
 
 
 ## TODO :computer:
